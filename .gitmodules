@@ -1,4 +1,4 @@
-[submodule "pub"]
-	path = pub
+[submodule "public"]
+	path = public
 	url = https://github.com/AAlesik/hugo-portfolio.git
 	branch = main
