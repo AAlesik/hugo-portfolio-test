@@ -74,3 +74,6 @@ menu:
     - name: about
       url: /about/
       weight: 5
+    - name: bunny
+      url: /tags/bunny/
+      weight: 6
