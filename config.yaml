@@ -1,4 +1,7 @@
-baseURL: "https://AAlesik.github.io/hugo-portfolio-test/" # todo: change site url.
+# baseURL: "https://AAlesik.github.io/hugo-portfolio-test/" # todo: change site url.
+baseURL: "/"
+uglyURLs: true
+relativeURLs: true
 title: Eternity # todo: change site name.
 defaultContentLanguage: 'en'
 # theme: eternity
