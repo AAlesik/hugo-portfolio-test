@@ -1,4 +1,5 @@
 baseURL: / # todo: change site url.
+relativeURLs: true
 title: Eternity # todo: change site name.
 defaultContentLanguage: 'en'
 # theme: eternity
