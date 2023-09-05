@@ -1,4 +1,4 @@
-baseURL: "https://AAlesik.github.io/hugo-portfolio-test/" # todo: change site url.
+baseURL: "http://AAlesik.github.io/hugo-portfolio-test/" # todo: change site url.
 # baseURL: "/"
 # uglyURLs: true
 # relativeURLs: true
